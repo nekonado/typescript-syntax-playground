@@ -36,4 +36,4 @@ if (obj2_2.bar !== undefined) {
   obj2_2.bar / 100;
 }
 
-type copyType = typeof obj2_2
+type copyType = typeof obj2_2;
