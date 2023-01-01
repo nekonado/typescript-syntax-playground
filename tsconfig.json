@@ -103,5 +103,5 @@
     "./src/**/*.tsx",
     "./src/**/*.cts",
     "./src/**/*.mts"
-  ]
+, "src/book2/1/bird-proto.js"  ]
 }
