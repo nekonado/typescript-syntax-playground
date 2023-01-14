@@ -35,4 +35,6 @@ type arrKeyType = keyof typeof arr
 type arrAllValueType = typeof arr[arrKeyType]
 type arrInstanceValueType = typeof arr[number]
 
+const str: In1['foo'] = ''
+
 export {};
