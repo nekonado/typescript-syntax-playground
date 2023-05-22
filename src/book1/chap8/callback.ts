@@ -1,8 +1,8 @@
 import { performance } from "perf_hooks";
 
 setTimeout(() => {
-  console.log("タイマーが呼ばれました"), 1000;
-});
+  console.log("タイマーが呼ばれました")
+}, 1000);
 
 const startTime = performance.now();
 let count = 0;
